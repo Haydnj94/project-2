@@ -1808,8 +1808,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1450' minheight='1450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='32' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97508' id='31' param='vert' type-v2='layout-flow' w='98698' x='651' y='1246'>
+            <zone h='100000' id='34' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='33' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='265' h='48754' id='3' is-fixed='true' name='Gen_Cat' w='11470' x='651' y='1246'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2149,7 +2149,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='14' />
+      <active id='-1' />
       <simple-id uuid='{FD9213EB-945F-4A8A-AB1B-BDEC41619E6A}' />
     </window>
   </windows>
