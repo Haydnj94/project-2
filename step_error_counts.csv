@@ -1,0 +1,11 @@
+process_step,error_flag,Variation
+confirm,0,Test
+start,10512,Test
+step_1,3415,Test
+step_2,2288,Test
+step_3,29,Test
+confirm,0,Control
+start,4809,Control
+step_1,2304,Control
+step_2,2367,Control
+step_3,130,Control
