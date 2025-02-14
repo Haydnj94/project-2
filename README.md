@@ -1,4 +1,7 @@
-# **A/B Testing of Vanguard UI - Data Analysis Project**
+# **A/B Testing of Vanguard UI - Data Analysis Project** 
+Presentation - https://www.canva.com/design/DAGe-X94AQY/RzJGdtFefRR_U0FJmjc8lw/edit
+
+Tableau Public - https://public.tableau.com/app/profile/haydn.jones3427/viz/Project-2-Haydn/KPIs?publish=yes
 
 ## **Project Overview**
 This project analyzes an **A/B test** conducted on a new **Vanguard UI** to determine its impact on user behavior. The study compares a **Test** group (new UI) against a **Control** group (existing UI) to evaluate metrics such as error rates, time spent and session completion rates.
