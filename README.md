@@ -54,5 +54,5 @@ To ensure data consistency and accuracy, the following steps were performed:
 ---
 
 ## **Conclusion**  
-While the **new Vanguard UI** improved **completion rate** and **overall time spent**, it led to **higher higher amount of errors**. These findings suggest a need for **further optimizations** before a full-scale rollout.
+While the **new Vanguard UI** improved **completion rate** and reduced **overall time spent**, it led to **higher higher amount of errors**. These findings suggest a need for **further optimizations** before a full-scale rollout.
 
